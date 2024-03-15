@@ -1,0 +1,57 @@
+header {
+    background-color: blueviolet;
+    font-size: x-large;
+    
+}
+#heading1 {
+    font-size: x-large;
+    color: bisque;
+    border: 5px solid chocolate;
+    text-align: center;
+}
+
+body {
+    background-color: #ff7fff;
+}
+
+main {
+    text-align: center;
+    border: 15px solid color(green);
+}
+.color-1 {
+    background: brown;
+}
+.color-2 {
+    background: brown;
+}
+.color-3 {
+    background: whitesmoke;
+}
+
+#my-result {
+    font-size: x-large;
+    color: aqua;
+    border: 50px;
+}
+
+button {
+    background: orangered;
+    font-size: larger;
+    border: 2px solid color red;
+    height: 100px;
+    width: 80px;
+}
+
+.numero7, .numero8, .numero9, .numero4, .numero5, .numero6, .numero3, .numero2, .numero1 {
+    background-color: greenyellow;
+}
+
+
+
+
+
+
+/*CHILD SELECTOR*/
+section>button {
+    list-style-type: none;
+}
